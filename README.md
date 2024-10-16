@@ -1,3 +1,3 @@
-- hello i'm kurogami
-- I'm interesed in CyberSecurity
-- I know any coding style
+- Bonjour je me nomme Kurogami 
+- Je suis intéresser par la cybersécurité 
+- je connais la plus pars des noms de codage comme:python; C#; C++; CSS; Java; JavaScript; HTML (language de Balisage);  
