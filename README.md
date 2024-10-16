@@ -1,0 +1,3 @@
+- hello i'm kurogami
+- I'm interesed in CyberSecurity
+- I know any coding style
